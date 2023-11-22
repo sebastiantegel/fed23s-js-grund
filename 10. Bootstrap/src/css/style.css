@@ -1,0 +1,10 @@
+.movie {
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: blanchedalmond;
+  cursor: pointer;
+}
+
+.movie:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
