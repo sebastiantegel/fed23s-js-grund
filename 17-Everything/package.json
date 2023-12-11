@@ -1,0 +1,20 @@
+{
+  "name": "17-everything",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vite-plugin-checker": "^0.6.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
